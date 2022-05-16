@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ntj48UvD5e6mGTgWlFlocOOb7gw4V6sHpryA+vcYeGfdGDpM8xvQiw/J6X4ugo14cCjM+d1bS527SW5u5s//Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu25tyfpp\\Desktop\\6-7_Practic\\Directory_file\\Directory_file\\Directory_file.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu25tyfpp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.exe
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.deps.json
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.runtimeconfig.json
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.runtimeconfig.dev.json
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.dll
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Directory_file.pdb
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.csproj.AssemblyReference.cache
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.AssemblyInfoInputs.cache
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.AssemblyInfo.cs
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.csproj.CoreCompileInputs.cache
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.csproj.CopyComplete
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.dll
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.pdb
+C:\Users\tu25tyfpp\Desktop\6-7_Practic\Directory_file\Directory_file\obj\Debug\netcoreapp3.1\Directory_file.genruntimeconfig.cache
